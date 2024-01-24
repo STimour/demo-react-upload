@@ -50,7 +50,7 @@ function Contact() {
     <Layout>
       <Container>
         <h1 className="text-6xl font-black text-center text-slate-900 mb-20">
-          Pudding brownie icing dragée lemon drops croissant.
+          caca poupou
         </h1>
 
         {state === 'sent' ? (
